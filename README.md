@@ -34,13 +34,26 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://YOUR_VERCEL_DOMAIN.vercel.app/api?username=Kaveera725&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaveera725&theme=tokyonight&hide_border=true" height="165"/>
+  <!-- Overall GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Kaveera725&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    height="165"
+  />
+  <!-- Streak / Contributions -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Kaveera725&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://YOUR_VERCEL_DOMAIN.vercel.app/api/top-langs/?username=Kaveera725&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" height="150"/>
+  <!-- Most Used Languages (percentage) -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaveera725&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
+    height="150"
+  />
 </p>
+
 
 ---
 
