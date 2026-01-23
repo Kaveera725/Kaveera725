@@ -34,12 +34,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaveera725&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=300" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaveera725&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaveera725&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaveera725&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=300" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaveera725&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css&cache_seconds=300" height="150"/>
 </p>
 
 
