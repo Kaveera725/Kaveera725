@@ -34,19 +34,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Big Stats Card (like screenshot style) -->
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaveera725&theme=github_dark"
-    height="170"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaveera725&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaveera725&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <!-- Most Used Languages (percentage like screenshot style) -->
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaveera725&theme=github_dark"
-    height="170"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaveera725&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
