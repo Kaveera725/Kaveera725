@@ -19,10 +19,14 @@
 
 ## 🛠 Tech Stack
 
+
 <p align="center">
 
-### 💻 Programming
-<img src="https://skillicons.dev/icons?i=python" height="40"/>
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,dart,javascript,cpp,php,html,css" height="40"/>
+
+### ⚙️ Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,spring,flutter" height="40"/>
 
 ### 🧰 DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,aws,gcp,terraform,kubernetes" height="40"/>
