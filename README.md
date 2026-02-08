@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠 Tech Stackcnd
+## 🛠 Tech Stack
 
 
 <p align="center">
