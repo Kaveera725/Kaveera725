@@ -25,11 +25,14 @@
 <img src="https://skillicons.dev/icons?i=go,python,java,dart,javascript,cpp,php,html,css" height="40"/>
 
 ### ⚙️ Frameworks & Libraries
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,spring,flutter" height="40"/>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Gin%20Framework-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<!-- Gin Framework -->
+<img src="https://skillicons.dev/icons?i=go" height="40"/>
+<img src="https://img.shields.io/badge/Gin-Framework-1f2937?style=flat&logo=go&logoColor=white&labelColor=1f2937" height="25"/>
+</p>
 
 ### 🧰 DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,aws,gcp,terraform,kubernetes,go" height="40"/>
