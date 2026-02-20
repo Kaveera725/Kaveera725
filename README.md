@@ -26,15 +26,8 @@
 
 ### ⚙️ Frameworks & Libraries
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=spring" height="40"/>
-<img src="https://skillicons.dev/icons?i=react" height="40"/>
-<img src="https://skillicons.dev/icons?i=flutter" height="40"/>
-
-<!-- Gin Framework -->
-<img src="https://raw.githubusercontent.com/Kaveera725/Kaveera725/main/gin.png" height="40"/>
-<b> Gin (Go Web Framework)</b>
-
+<img src="https://skillicons.dev/icons?i=spring,react,flutter" height="40"/>
+<img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="40" alt="Gin"/>
 </p>
 
 
