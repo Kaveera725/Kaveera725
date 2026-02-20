@@ -26,13 +26,20 @@
 
 ### ⚙️ Frameworks & Libraries
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,spring,flutter" height="40"/>
+### ⚙️ Frameworks & Libraries
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=spring" height="40"/>
+<img src="https://skillicons.dev/icons?i=react" height="40"/>
+<img src="https://skillicons.dev/icons?i=flutter" height="40"/>
 
 <!-- Gin Framework -->
-<img src="https://skillicons.dev/icons?i=go" height="40"/>
-<img src="https://img.shields.io/badge/Gin-Framework-1f2937?style=flat&logo=go&logoColor=white&labelColor=1f2937" height="25"/>
+<img src="https://raw.githubusercontent.com/Kaveera725/Kaveera725/main/gin.png" height="40"/>
+<b> Gin (Go Web Framework)</b>
+
 </p>
+
 
 ### 🧰 DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,aws,gcp,terraform,kubernetes,go" height="40"/>
