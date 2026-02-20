@@ -19,28 +19,36 @@
 
 ## 🛠 Tech Stack
 
-
 <p align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=python,java,dart,javascript,cpp,php,html,css" height="40"/>
+<img src="https://skillicons.dev/icons?i=go,python,java,dart,javascript,cpp,php,html,css" height="40"/>
 
 ### ⚙️ Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=react,spring,flutter" height="40"/>
 
+<br><br>
+
+<img src="https://img.shields.io/badge/Gin%20Framework-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+
 ### 🧰 DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,aws,gcp,terraform,kubernetes" height="40"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,aws,gcp,terraform,kubernetes,go" height="40"/>
 
 </p>
 
 ---
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaveera725&show_icons=true&theme=tokyonight&cache_seconds=86400)
+## 📊 My Statistics
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kaveera725&theme=tokyonight&cache_seconds=86400)
+![](https://raw.githubusercontent.com/Kaveera725/Kaveera725/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaveera725&layout=compact&theme=tokyonight&cache_seconds=86400)
+![](https://raw.githubusercontent.com/Kaveera725/Kaveera725/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
+
+![](https://raw.githubusercontent.com/Kaveera725/Kaveera725/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
+
+![](https://raw.githubusercontent.com/Kaveera725/Kaveera725/main/profile-summary-card-output/tokyonight/3-stats.svg)
+
+![](https://raw.githubusercontent.com/Kaveera725/Kaveera725/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
 
 ---
 
