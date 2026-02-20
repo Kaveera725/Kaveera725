@@ -36,12 +36,11 @@
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaveera725&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaveera725&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kaveera725&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Kaveera725&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaveera725&layout=compact&theme=tokyonight)
-p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaveera725&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 
 ---
