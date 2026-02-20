@@ -25,9 +25,6 @@
 <img src="https://skillicons.dev/icons?i=go,python,java,dart,javascript,cpp,php,html,css" height="40"/>
 
 ### ⚙️ Frameworks & Libraries
-
-### ⚙️ Frameworks & Libraries
-
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=spring" height="40"/>
