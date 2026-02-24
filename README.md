@@ -33,9 +33,8 @@
 <img src="https://skillicons.dev/icons?i=react" height="40"/>
 <img src="https://skillicons.dev/icons?i=flutter" height="40"/>
 
-<!-- Gin Framework -->
-<img src="https://raw.githubusercontent.com/Kaveera725/Kaveera725/main/gin.png" height="40"/>
-<img src="https://img.shields.io/badge/Gin-Go%20Web%20Framework-00ADD8?style=flat&logo=go&logoColor=white" height="20"/>
+<!-- Gin Framework (represented by Go ecosystem) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" title="Gin Web Framework"/>
 
 </p>
 
@@ -44,10 +43,13 @@
 ### 🧰 DevOps & Cloud
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,aws,gcp,terraform,kubernetes,go" height="40"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,aws,gcp,terraform,kubernetes" height="40"/>
 
-<!-- Minikube -->
-<img src="https://raw.githubusercontent.com/Kaveera725/Kaveera725/main/minikube.png" height="40"/>
+<!-- Minikube (local Kubernetes) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" title="Minikube"/>
+
+<!-- Go ecosystem (Cloud-native tools) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/>
 
 </p>
 
