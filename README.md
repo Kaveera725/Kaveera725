@@ -20,7 +20,7 @@
 ## 🛠 Tech Stack
 
 ### 💻 Programming Languages
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=go,python,java,dart,javascript,cpp,php,html,css" height="40"/>
 </p>
 
