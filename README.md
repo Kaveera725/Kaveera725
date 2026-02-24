@@ -19,10 +19,12 @@
 
 ## 🛠 Tech Stack
 
-<p align="center">
-
 ### 💻 Programming Languages
+<p align="center">
 <img src="https://skillicons.dev/icons?i=go,python,java,dart,javascript,cpp,php,html,css" height="40"/>
+</p>
+
+---
 
 ### ⚙️ Frameworks & Libraries
 <p align="left">
@@ -33,13 +35,19 @@
 
 <!-- Gin Framework -->
 <img src="https://raw.githubusercontent.com/Kaveera725/Kaveera725/main/gin.png" height="40"/>
-<b> Gin (Go Web Framework)</b>
+<img src="https://img.shields.io/badge/Gin-Go%20Web%20Framework-00ADD8?style=flat&logo=go&logoColor=white" height="20"/>
 
 </p>
 
+---
 
 ### 🧰 DevOps & Cloud
+<p align="left">
+
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,aws,gcp,terraform,kubernetes,go" height="40"/>
+
+<!-- Minikube -->
+<img src="https://raw.githubusercontent.com/Kaveera725/Kaveera725/main/minikube.png" height="40"/>
 
 </p>
 
