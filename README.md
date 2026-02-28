@@ -40,15 +40,20 @@
 
 ---
 
+
 ### 🧰 DevOps & Cloud
 <p align="left">
 
+<!-- Main DevOps tools -->
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,aws,gcp,terraform,kubernetes" height="40"/>
 
-<!-- Minikube (local Kubernetes) -->
+<!-- Minikube -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" title="Minikube"/>
 
-<!-- Go ecosystem (Cloud-native tools) -->
+<!-- Alibaba Cloud -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alibabacloud/alibabacloud-original.svg" height="40" title="Alibaba Cloud"/>
+
+<!-- Go ecosystem -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/>
 
 </p>
