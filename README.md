@@ -51,7 +51,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" title="Minikube"/>
 
 <!-- Alibaba Cloud -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alibabacloud/alibabacloud-original.svg" height="40" title="Alibaba Cloud"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Alibaba_Cloud_Logo.svg" height="40" title="Alibaba Cloud"/>
 
 <!-- Go ecosystem -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/>
