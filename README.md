@@ -32,6 +32,7 @@
 <img src="https://skillicons.dev/icons?i=spring" height="40"/>
 <img src="https://skillicons.dev/icons?i=react" height="40"/>
 <img src="https://skillicons.dev/icons?i=flutter" height="40"/>
+<img src="https://skillicons.dev/icons?i=flask" height="40"/>
 
 <!-- Gin Framework (represented by Go ecosystem) -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" title="Gin Web Framework"/>
