@@ -35,9 +35,9 @@
 <img src="https://skillicons.dev/icons?i=flask" height="40"/>
 
 ## 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb" height="40" title="MongoDB"/>
-<img src="https://skillicons.dev/icons?i=postgres" height="40" title="PostgreSQL"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="40" title="MySQL"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="40" />
+<img src="https://skillicons.dev/icons?i=postgres" height="40" />
+<img src="https://skillicons.dev/icons?i=mysql" height="40" />
 
 <!-- Gin Framework (represented by Go ecosystem) -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" title="Gin Web Framework"/>
