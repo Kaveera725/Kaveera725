@@ -24,7 +24,13 @@
 <img src="https://skillicons.dev/icons?i=go,python,java,dart,javascript,cpp,php,html,css" height="40"/>
 </p>
 
+<p align="left">
+## 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb" height="40" />
+<img src="https://skillicons.dev/icons?i=postgres" height="40" />
+<img src="https://skillicons.dev/icons?i=mysql" height="40" />
 ---
+</p>  
 
 ### ⚙️ Frameworks & Libraries
 <p align="left">
@@ -33,11 +39,6 @@
 <img src="https://skillicons.dev/icons?i=react" height="40"/>
 <img src="https://skillicons.dev/icons?i=flutter" height="40"/>
 <img src="https://skillicons.dev/icons?i=flask" height="40"/>
-
-## 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb" height="40" />
-<img src="https://skillicons.dev/icons?i=postgres" height="40" />
-<img src="https://skillicons.dev/icons?i=mysql" height="40" />
 
 <!-- Gin Framework (represented by Go ecosystem) -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" title="Gin Web Framework"/>
