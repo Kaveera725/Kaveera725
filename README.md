@@ -24,8 +24,8 @@
 <img src="https://skillicons.dev/icons?i=go,python,java,dart,javascript,cpp,php,html,css" height="40"/>
 </p>
 
+### 🗄️ Databases
 <p align="left">
-## 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
 <img src="https://skillicons.dev/icons?i=postgres" height="40" />
 <img src="https://skillicons.dev/icons?i=mysql" height="40" />
