@@ -41,10 +41,12 @@
 <img src="https://skillicons.dev/icons?i=flask" height="40"/>
 
 <!-- Gin Framework -->
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" title="Gin Web Framework"/>
 
-<!-- Fiber Framework -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" title="Fiber Web Framework"/>
+<!-- Fiber Framework (Official Logo) -->
+
+<img src="https://gofiber.io/assets/images/logo.svg" height="40" title="Fiber Web Framework"/>
 
 </p>
 
