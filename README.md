@@ -70,13 +70,41 @@
 ## 📊 My Statistics
 [![](https://raw.githubusercontent.com/Kaveera725/Kaveera725/main/profile-summary-card-output/2077/0-profile-details.svg?cache=1)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/Kaveera725/Kaveera725/main/profile-summary-card-output/2077/1-repos-per-language.svg?cache=1)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<table>
+<tr>
+<td>
 
-[![](https://raw.githubusercontent.com/Kaveera725/Kaveera725/main/profile-summary-card-output/2077/2-most-commit-language.svg?cache=1)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<img src="https://raw.githubusercontent.com/Kaveera725/Kaveera725/main/profile-summary-card-output/2077/1-repos-per-language.svg?cache=1"/>
+</a>
 
-[![](https://raw.githubusercontent.com/Kaveera725/Kaveera725/main/profile-summary-card-output/2077/3-stats.svg?cache=1)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+</td>
+<td>
 
-[![](https://raw.githubusercontent.com/Kaveera725/Kaveera725/main/profile-summary-card-output/2077/4-productive-time.svg?cache=1)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<img src="https://raw.githubusercontent.com/Kaveera725/Kaveera725/main/profile-summary-card-output/2077/2-most-commit-language.svg?cache=1"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<img src="https://raw.githubusercontent.com/Kaveera725/Kaveera725/main/profile-summary-card-output/2077/3-stats.svg?cache=1"/>
+</a>
+
+</td>
+<td>
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<img src="https://raw.githubusercontent.com/Kaveera725/Kaveera725/main/profile-summary-card-output/2077/4-productive-time.svg?cache=1"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 
 ---
