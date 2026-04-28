@@ -40,8 +40,11 @@
 <img src="https://skillicons.dev/icons?i=flutter" height="40"/>
 <img src="https://skillicons.dev/icons?i=flask" height="40"/>
 
-<!-- Gin Framework (represented by Go ecosystem) -->
+<!-- Gin Framework -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" title="Gin Web Framework"/>
+
+<!-- Fiber Framework -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" title="Fiber Web Framework"/>
 
 </p>
 
