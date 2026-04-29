@@ -39,6 +39,7 @@
 <img src="https://skillicons.dev/icons?i=react" height="40"/>
 <img src="https://skillicons.dev/icons?i=flutter" height="40"/>
 <img src="https://skillicons.dev/icons?i=flask" height="40"/>
+<img src="https://skillicons.dev/icons?i=fiber" height="40"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" title="Gin Web Framework"/>
 
@@ -59,9 +60,6 @@
 
 <!-- Alibaba Cloud -->
 <img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white"/>
-
-<!-- Go ecosystem -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/>
 
 </p>
 
