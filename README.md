@@ -39,10 +39,7 @@
 <img src="https://skillicons.dev/icons?i=react" height="40"/>
 <img src="https://skillicons.dev/icons?i=flutter" height="40"/>
 <img src="https://skillicons.dev/icons?i=flask" height="40"/>
-<img src="https://skillicons.dev/icons?i=fiber" height="40"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" title="Gin Web Framework"/>
-
 <img src="https://cdn.jsdelivr.net/gh/gofiber/docs@master/static/img/logo.svg" height="40" title="Fiber Web Framework"/>
 
 </p>
