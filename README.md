@@ -19,32 +19,82 @@
 
 ## 🛠 Tech Stack
 
-<p align="center">
-
 ### 💻 Programming Languages
+<p align="left">
 <img src="https://skillicons.dev/icons?i=go,python,java,dart,javascript,cpp,php,html,css" height="40"/>
+</p>
+
+### 🗄️ Databases
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb" height="40" />
+<img src="https://skillicons.dev/icons?i=postgres" height="40" />
+<img src="https://skillicons.dev/icons?i=mysql" height="40" />
+---
+</p>  
 
 ### ⚙️ Frameworks & Libraries
 <p align="left">
 <img src="https://skillicons.dev/icons?i=spring,react,flutter" height="40"/>
 <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="40" alt="Gin"/>
 </p>
+---
 
 
 ### 🧰 DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,aws,gcp,terraform,kubernetes,go" height="40"/>
+<p align="left">
+
+<!-- Main DevOps tools -->
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,aws,gcp,terraform,kubernetes" height="40"/>
+
+<!-- Minikube -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" title="Minikube"/>
+
+<!-- Alibaba Cloud -->
+<img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white"/>
 
 </p>
 
 ---
 
 ## 📊 My Statistics
+[![](https://raw.githubusercontent.com/Kaveera725/Kaveera725/main/profile-summary-card-output/2077/0-profile-details.svg?cache=1)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![](./profile-summary-card-output/tokyonight/0-profile-details.svg)
-![](./profile-summary-card-output/tokyonight/1-repos-per-language.svg)
-![](./profile-summary-card-output/tokyonight/2-most-commit-language.svg)
-![](./profile-summary-card-output/tokyonight/3-stats.svg)
-![](./profile-summary-card-output/tokyonight/4-productive-time.svg)
+<table>
+<tr>
+<td>
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<img src="https://raw.githubusercontent.com/Kaveera725/Kaveera725/main/profile-summary-card-output/2077/1-repos-per-language.svg?cache=1"/>
+</a>
+
+</td>
+<td>
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<img src="https://raw.githubusercontent.com/Kaveera725/Kaveera725/main/profile-summary-card-output/2077/2-most-commit-language.svg?cache=1"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<img src="https://raw.githubusercontent.com/Kaveera725/Kaveera725/main/profile-summary-card-output/2077/3-stats.svg?cache=1"/>
+</a>
+
+</td>
+<td>
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<img src="https://raw.githubusercontent.com/Kaveera725/Kaveera725/main/profile-summary-card-output/2077/4-productive-time.svg?cache=1"/>
+</a>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
