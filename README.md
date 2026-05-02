@@ -38,7 +38,7 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=spring,react,flutter" height="40"/>
 <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="40" alt="Gin"/>
-<img src="https://www.svgrepo.com/show/373635/fiber.svg" height="40" alt="Fiber"/>
+<img src="https://raw.githubusercontent.com/gofiber/fiber/master/.github/logo-dark.svg" height="40" alt="Fiber"/>
 </p>
 ---
 
