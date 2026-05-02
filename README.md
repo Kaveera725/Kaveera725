@@ -30,8 +30,6 @@
 <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
 <img src="https://skillicons.dev/icons?i=postgres" height="40" />
 <img src="https://skillicons.dev/icons?i=mysql" height="40" />
----
-
 </p>  
 
 ### ⚙️ Frameworks & Libraries
