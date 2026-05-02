@@ -38,6 +38,7 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=spring,react,flutter" height="40"/>
 <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="40" alt="Gin"/>
+<img src="https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white" height="40" alt="Fiber"/>
 </p>
 ---
 
