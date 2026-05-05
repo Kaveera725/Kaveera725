@@ -45,10 +45,16 @@
 <p align="left">
 
 <!-- Main DevOps tools -->
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,aws,gcp,terraform,kubernetes" height="40"/>
+<p align="left">
+
+<!-- Main DevOps tools -->
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,aws,gcp,terraform,kubernetes,jenkins" height="40"/>
 
 <!-- Minikube -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" title="Minikube"/>
+
+<!-- Prometheus -->
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
 
 <!-- Alibaba Cloud -->
 <img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white"/>
