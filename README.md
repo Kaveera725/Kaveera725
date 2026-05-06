@@ -60,7 +60,6 @@
 
 </p>
 
----
 
 ## 📊 My Statistics
 [![](https://raw.githubusercontent.com/Kaveera725/Kaveera725/main/profile-summary-card-output/2077/0-profile-details.svg?cache=1)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
