@@ -42,7 +42,7 @@
 ### 🧰 DevOps & Cloud
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,aws,gcp,terraform,kubernetes,jenkins,prometheus" height="40"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,aws,gcp,terraform,kubernetes,jenkins,prometheus,grafana" height="40"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" title="Minikube"/>
 
