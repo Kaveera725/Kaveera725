@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anushad Kaveera</h1>
 <h3 align="center">Computer Science Undergraduate at UCSC | Cloud & DevOps Enthusiast ☁️🚀</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kaveera725&label=Profile%20Views&color=0e75b6&style=flat" alt="Kaveera725" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
