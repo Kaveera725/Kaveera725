@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anushad Kaveera</h1>
 <h3 align="center">Computer Science Undergraduate at UCSC | Cloud & DevOps Enthusiast ☁️🚀</h3>
 
----
-
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science undergraduate at **University of Colombo School of Computing (UCSC)**
