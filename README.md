@@ -103,3 +103,6 @@
 
 
 ⭐ If you like my work, consider following me!
+## GitHub Activity
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaveera725)
