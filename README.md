@@ -1,13 +1,28 @@
 <h1 align="center">Hi 👋, I'm Anushad Kaveera</h1>
-<h3 align="center">Computer Science Undergraduate at UCSC | Cloud & DevOps Enthusiast ☁️🚀</h3>
+
+<h3 align="center">
+DevOps Engineer | Software Engineer | Cloud & Infrastructure ☁️🚀
+</h3>
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science undergraduate at **University of Colombo School of Computing (UCSC)**
-- ☁️ Passionate about **Cloud, DevOps, Networking & Security**
-- 🔧 Love building scalable, automated systems
-- 🚀 Always learning and experimenting with new technologies
-- 🤝 Open to collaborations in **Cloud & DevOps projects**
+- 🎓 Graduated with a **BSc. in Computer Science** from the **University of Colombo School of Computing (UCSC)**
+- ☁️ Passionate about **Cloud Computing, DevOps, Infrastructure & Networking**
+- 🔧 Experienced in building and deploying **scalable, automated systems**
+- 🚀 Interested in **CI/CD, Kubernetes, Docker, Terraform & Cloud Infrastructure**
+- 💻 Enjoy developing software and solving real-world technical problems
+- 🔐 Interested in **Network Security & Cloud Security**
+- 🤝 Open to collaborating on **Cloud, DevOps & Software Engineering projects**
+- 📚 Continuously learning and exploring new technologies
+
+### 🎯 Current Focus
+
+- ☁️ Cloud & DevOps Engineering
+- ⚙️ CI/CD & Infrastructure Automation
+- 🐳 Docker & Kubernetes
+- 🏗️ Infrastructure as Code with Terraform
+- 🔐 Cloud & Network Security
+- 💻 Software Engineering
 
 ---
 
