@@ -105,7 +105,7 @@ DevOps Engineer | Software Engineer | Cloud & Infrastructure ☁️🚀
 <p align="center">
   <a href="https://github.com/Kaveera725">
     <img height="150" alt="Kaveera725's GitHub Stats"
-      src="https://github-readme-stats-alpha-seven-64.vercel.app/api?username=Kaveera725&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4a9eff&text_color=ffffff&icon_color=4a9eff&ring_color=4a9eff&card_width=380&custom_title=Anushad%20Kaveera's%20GitHub%20Stats&v=3" />
+      src="https://github-readme-stats-alpha-seven-64.vercel.app/api?username=Kaveera725&show_icons=true&include_all_commits=true&count_private=true&show=reviews&hide_border=true&bg_color=0d1117&title_color=4a9eff&text_color=ffffff&icon_color=4a9eff&ring_color=4a9eff&card_width=380&custom_title=Anushad%20Kaveera's%20GitHub%20Stats&v=4" />
   </a>
   <a href="https://git.io/streak-stats">
     <img height="150" alt="GitHub Streak"
