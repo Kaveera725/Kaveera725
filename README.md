@@ -102,8 +102,6 @@ DevOps Engineer | Software Engineer | Cloud & Infrastructure ☁️🚀
 
 ## 📈 Technical Overview
 
-## 📈 Technical Overview
-
 <p align="center">
   <a href="https://github.com/Kaveera725">
     <img height="150" alt="Kaveera725's GitHub Stats"
